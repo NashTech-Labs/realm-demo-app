@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_4ed7228bccc4f96bb816bdd7728b8efd4817c744.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0c3071c6c37c5f5e2487878fea0f647b6ce7b3c3.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_f36d369a7700527fae3a45313518a502c34c05aa.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_51f661bb0b6bcd15038091f60d8a7c2962012b08.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_33c744b6c43bcf9ade1f22e4e412ddc46c9b75ea.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.87.4/97d167507fcf75bc96d2123af0f3b1b5614ca3b7/realm-android-0.87.4.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="97d167507fcf75bc96d2123af0f3b1b5614ca3b7">
+        <dex dex="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/pre-dexed/debug/realm-android-0.87.4_95e2da9a2a021e186048bdc6e449ed1871c40bc6.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_20263766e7170d43aa77282d27f724b16663d55d.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_fe1542cdb759785b5004f88a43ba5d235ef58770.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_40bd538d50f17096ca8b6a1710088ed2747657b2.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_b5c81cf51f8c4d597a701684b6f42c085b231d98.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_fd8f3b9afba41bd9348c576d9a671d7c39e887a7.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_b5074d53e139029b254fcf75d806ae8f7dc11d39.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_d3cd8d93e6ae7c7bcbb81b8cc8885a5772ec64f6.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f61e30b02bd1f2581d28fd95a75602f7e0f9969d">
+        <dex dex="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/pre-dexed/debug/instant-run_eaca8b1509aedff38dac81c79aed27b66bd05b7a.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_4f8eb9b10b961483510e4411a7d391de6917fb3a.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_effaac054235877351c3e97b906d6ec4ea00a989.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="66a1feb9e5d4f3db7f9d235848080265abac89df">
+        <dex dex="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/pre-dexed/debug/instant-run_5528f606299f882316ccf042213d0876353ac290.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_d7e1fe89225a1d551c164bdfae4e5a80d462c7eb.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_1a4f6964a60dd77036415683eb4b6e3584ae9790.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_ad534a2a1d820f6b7c41d96ce0ea547d046ec9e8.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_5bde08567b483d1073516b9d892017ec00a6ae70.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c70b35393dfc0990eea4744a3e73c067a8a5ab72">
+        <dex dex="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_fb4109eb04c58a5721a1ca137bb9d50dc937b5cb.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_870e0996c02162dc3de43dedd6f393dcb3aae33f.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_b2924ed9c8cca26129d8ee5519c3869c3f629f78.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7bcdcfd09ad739c179a828632bbf97f18a74cf6e">
+        <dex dex="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_232c59368ef51c98569bb09ce725a0aa4f6e8b3d.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_b984ade1fb6d3cb2c603180e3ce4749db83ba66c.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_d64f0f076b9e712812005eadc1dab0f2d3ade0e5.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_8f1afb7fcd63876eed26cd3e02e41e4d62582dd6.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_2d1237071fa78321c433ecf7986abc84ef000aa0.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_53c362db137777d02987db249746eb0d4aef3515.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_0c4e21fa9f2587248f6f90cf79cea674a626eb0e.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0a33b2c878ecabeffb9719104a2558f21804c8d6.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/knoldus/Projects/AndroidRealm/RealmApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_b6fe3d7594c9237e2d1608cedca6f245a6ae5fca.jar" />
+    </item>
+    <item
+        jar="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/knoldus/MyWorkspace/RealmDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_a8a31fe38b9424d9d5dc642d4e39bf9f2ada4a97.jar" />
+    </item>
+
+</items>
