@@ -25,6 +25,8 @@ public class MainActivity extends AppCompatActivity {
     public Button removeBtn;
     public TextView textview;
     private String title = "";
+    public RealmResults<MyBook> mbooks;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,6 +39,9 @@ public class MainActivity extends AppCompatActivity {
         removeBtn = (Button) findViewById(R.id.button2);
         mEditText = (EditText) findViewById(R.id.editText);
         textview = (TextView) findViewById(R.id.textView);
+        mrealm.beginTransaction();
+        mbooks = mrealm.allObjects(MyBook.class);
+        mrealm.commitTransaction();
         getAllBooks();
         addBtn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -91,12 +96,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void getAllBooks() {
-        RealmResults<MyBook> mbooks;
         textview.setText("");
         String titles = "";
-        mrealm.beginTransaction();
-        mbooks = mrealm.allObjects(MyBook.class);
-        mrealm.commitTransaction();
         for (int i = 0; i < mbooks.size(); i++) {
             titles += mbooks.get(i).getTitle() + "\n";
         }
@@ -128,7 +129,6 @@ public class MainActivity extends AppCompatActivity {
                     if (!books.isEmpty()) {
                         for (int i = 0; i < books.size(); i++) {
                             MyBook bk = new MyBook();
-
                             bk.setId(books.get(i).getId());
                             bk.setTitle(newTitle);
                             mrealm.copyToRealmOrUpdate(bk);
