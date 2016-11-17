@@ -3,7 +3,6 @@ package com.example.knoldus.realmdemo;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.os.Bundle;
-import android.provider.Settings;
 import android.support.v7.app.AppCompatActivity;
 import android.text.InputType;
 import android.view.View;
@@ -13,8 +12,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.knoldus.realmdemo.model.MyBook;
-
-import java.util.UUID;
 
 import io.realm.Realm;
 import io.realm.RealmConfiguration;
@@ -80,8 +77,10 @@ public class MainActivity extends AppCompatActivity {
                                 books.get(i).removeFromRealm();
                             }
                         } else{
-                            Toast.makeText(getApplicationContext(), "Please enter a valid book name", Toast.LENGTH_SHORT).show();
+                            Toast.makeText(getApplicationContext(), "No book found !!", Toast.LENGTH_SHORT).show();
                         }
+                        } else{
+                            Toast.makeText(getApplicationContext(), "Please enter a valid book name", Toast.LENGTH_SHORT).show();
                         }
                     }
                 });
@@ -155,7 +154,6 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(getApplicationContext(), "Book not found !!", Toast.LENGTH_SHORT).show();
                 mEditText.setText("");
             }
-// Set up the buttons
 
         } else {
             Toast.makeText(getApplicationContext(), "Please enter a valid book name", Toast.LENGTH_SHORT).show();
